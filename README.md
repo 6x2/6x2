@@ -8,6 +8,3 @@
   - Lua,
   - Perl,
   - NodeJS
-```
-but I mainly code in Python and C#.
-```
