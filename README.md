@@ -8,4 +8,4 @@
   - Lua,
   - Perl,
   - NodeJS
-- but I mainly code in C# or Python.
+- but I mainly code in Python.
