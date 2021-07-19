@@ -2,4 +2,10 @@
 - 👀 I’m interested in cats & minecraft
 - 🌱 I’m currently learning C++ and about binary exploitation
 - 🌟 currently working on sinister (a mass minecraft cat tool)
-- 🐈 I currently know: Python, C#, Lua, Perl, NodeJS and Java.
+- 🐈 I currently know:
+  - Python
+  - C#,
+  - Lua,
+  - Perl,
+  - NodeJS
+- but I mainly code in C# or Python.
