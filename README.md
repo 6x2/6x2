@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++ and about binary exploitation
 - 🌟 currently working on sinister (a mass minecraft cat tool)
 - 🐈 I currently know:
-  - Python,
-  - C#,
-  - Lua,
-  - Perl,
+  - Python
+  - C#
+  - Lua
+  - Perl
   - NodeJS
