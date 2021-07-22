@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6x2 also known as chob on the internet
 - 👀 I’m interested in cats & minecraft
-- 🌱 I’m currently learning C++ and about binary exploitation
+- 🌱 I’m currently learning C++ and about sex
 - 🌟 currently working on sinister (a mass minecraft cat tool)
 - 🐈 I currently know:
   - Python
